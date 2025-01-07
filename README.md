@@ -1,4 +1,4 @@
-1. User Roles
+#1. User Roles
 ![image](https://github.com/user-attachments/assets/84eedafe-fbf2-4148-a6af-17f3d3b596ef)
 
 Admin Login: Admins log into the site via a dedicated login page. After logging in, they gain access to the admin panel. In this panel, they can perform full-authority operations on products, categories, orders, and users.
