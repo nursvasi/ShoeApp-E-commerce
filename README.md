@@ -2,7 +2,11 @@
 ![image](https://github.com/user-attachments/assets/84eedafe-fbf2-4148-a6af-17f3d3b596ef)
 
 Admin Login: Admins log into the site via a dedicated login page. After logging in, they gain access to the admin panel. In this panel, they can perform full-authority operations on products, categories, orders, and users.
+
 Member Login: Customers can log in by creating an account. Once logged in, they can shop and track their orders.
+
+
+
 3. Homepage and Products
 Some products are listed on the homepage.
 Customers can filter products by category, view product details, and add items to their cart.
