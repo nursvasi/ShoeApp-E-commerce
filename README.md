@@ -7,11 +7,15 @@ Member Login: Customers can log in by creating an account. Once logged in, they 
 
 
 
-3. Homepage and Products
+2. Homepage and Products
+![image](https://github.com/user-attachments/assets/a7c13c6f-9f52-4ca6-a657-5fbaa1d5ea2a)
+
 Some products are listed on the homepage.
 Customers can filter products by category, view product details, and add items to their cart.
 Filtering and search features are provided for the products.
-4. Customer Features
+
+
+3. Customer Features
 Product Listing and Tracking: Customers can access detailed information about a product (description, price, stock status, etc.). Additionally, they can check the status of their orders in the order tracking section.
 Cart Management: Customers can add products to the cart, remove them, or update the quantity. Before completing the order, customers can review their selected products.
 5. Admin Panel Features
