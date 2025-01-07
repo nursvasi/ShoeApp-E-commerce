@@ -15,9 +15,15 @@ Customers can filter products by category, view product details, and add items t
 Filtering and search features are provided for the products.
 
 
-3. Customer Features
-Product Listing and Tracking: Customers can access detailed information about a product (description, price, stock status, etc.). Additionally, they can check the status of their orders in the order tracking section.
+3. Customer Features Product
+![image](https://github.com/user-attachments/assets/a0b8d089-938c-4310-848e-b52d525273f2)
+![image](https://github.com/user-attachments/assets/a5361024-17d0-434f-b314-6ed63ff58e00)
+
+Listing and Tracking: Customers can access detailed information about a product (description, price, stock status, etc.). Additionally, they can check the status of their orders in the order tracking section.
 Cart Management: Customers can add products to the cart, remove them, or update the quantity. Before completing the order, customers can review their selected products.
+
+
+
 5. Admin Panel Features
 Product Management: Admins can add, edit, or delete products. Information such as category, price, stock status, and descriptions can be added for each product.
 Category Management: Admins can create, edit, and manage different product categories.
